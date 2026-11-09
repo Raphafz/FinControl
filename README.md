@@ -19,8 +19,8 @@
 
 <br>
 
-[![GitHub Stars](https://img.shields.io/github/stars/felipeassump22/fincontrol?style=social)](https://github.com/felipeassump22/fincontrol/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/felipeassump22/fincontrol?style=social)](https://github.com/felipeassump22/fincontrol/network)
+[![GitHub Stars](https://img.shields.io/github/stars/Raphafz/FinControl?style=social)](https://github.com/Raphafz/FinControl/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Raphafz/FinControl?style=social)](https://github.com/Raphafz/FinControl/network)
 [![Status](https://img.shields.io/badge/Status-🚀_Produção-brightgreen?style=flat-square)](#)
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue?style=flat-square)](LICENSE)
 
@@ -82,7 +82,7 @@ Agora cole os comandos abaixo e aperte Enter:
 
 ```bash
 # Baixa o código do projeto para a sua máquina
-git clone https://github.com/felipeassump22/fincontrol.git
+git clone https://github.com/Raphafz/FinControl.git
 
 # Entra na pasta do projeto
 cd fincontrol
@@ -617,7 +617,7 @@ Por se tratar de um trabalho com finalidade educacional, o sistema não se desti
 
 *Construído com obsessão por qualidade.*
 
-[![GitHub Stars](https://img.shields.io/github/stars/felipeassump22/fincontrol?style=social)](https://github.com/felipeassump22/fincontrol/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/felipeassump22/fincontrol?style=social)](https://github.com/felipeassump22/fincontrol/network)
+[![GitHub Stars](https://img.shields.io/github/stars/Raphafz/FinControl?style=social)](https://github.com/Raphafz/FinControl/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Raphafz/FinControl?style=social)](https://github.com/Raphafz/FinControl/network)
 
 </div>
