@@ -609,13 +609,6 @@ O FinControl é um **projeto acadêmico**, desenvolvido em **grupo** como parte 
 
 Por se tratar de um trabalho com finalidade educacional, o sistema não se destina ao uso em produção sem uma revisão adicional de segurança e infraestrutura.
 
----
-
-<div align="center">
-
-### Feito com 💙 e muito ☕
-
-*Construído com obsessão por qualidade.*
 
 [![GitHub Stars](https://img.shields.io/github/stars/Raphafz/FinControl?style=social)](https://github.com/Raphafz/FinControl/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Raphafz/FinControl?style=social)](https://github.com/Raphafz/FinControl/network)
