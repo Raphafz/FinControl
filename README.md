@@ -603,6 +603,14 @@ fincontrol/
 
 ---
 
+## 🎓 Sobre o Projeto
+
+O FinControl é um **projeto acadêmico**, desenvolvido em **grupo** como parte de uma atividade de formação. Seu objetivo é aplicar, em um cenário próximo ao real, conceitos de engenharia de software, modelagem de banco de dados, controle de acesso e boas práticas de desenvolvimento web.
+
+Por se tratar de um trabalho com finalidade educacional, o sistema não se destina ao uso em produção sem uma revisão adicional de segurança e infraestrutura.
+
+---
+
 <div align="center">
 
 ### Feito com 💙 e muito ☕
